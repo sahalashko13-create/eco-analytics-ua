@@ -1,6 +1,5 @@
 streamlit
 pandas
-matplotlib
-networkx
 folium
 streamlit-folium
+scikit-learn
